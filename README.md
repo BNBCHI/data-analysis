@@ -1,2 +1,2 @@
 # data-analysis
-learnign data analysis fundamentals
+learning data analysis fundamentals
